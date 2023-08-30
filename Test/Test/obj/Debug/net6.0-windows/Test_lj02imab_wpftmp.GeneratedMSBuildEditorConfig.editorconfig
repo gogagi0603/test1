@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Test
+build_property.RootNamespace = Test_lj02imab_wpftmp
 build_property.ProjectDir = C:\TeamCity\buildAgent\work\6407e9f80655cdda\Test\Test\
