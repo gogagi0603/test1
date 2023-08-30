@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\test1\Test\Test\obj\Debug\net6.0-windows\
+C:\TeamCity\buildAgent\work\6407e9f80655cdda\Test\Test\obj\Debug\net6.0-windows\
 Test
 none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
-D:\test1\Test\Test\App.xaml
+C:\TeamCity\buildAgent\work\6407e9f80655cdda\Test\Test\App.xaml
 11407045341
 
 3-1233169557
 194-1976662911
 MainWindow.xaml;
 
-True
+False
 
