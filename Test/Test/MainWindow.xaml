@@ -8,7 +8,9 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Border BorderBrush="Black" BorderThickness="1">
-            <Button Content="Button"/>
+            <Button>
+                <Button Content="Button"/>
+            </Button>
         </Border>
 
     </Grid>

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "awWgk6q1+esEI2Ur5r2Jjq4J5C9CJlaZLEzN5Sa/R9vcAa5rqd9kJt2yusbWgUnZp1gRJBFKQ+b7CYwzchRdVg==",
+  "dgSpecHash": "8G3KB/NnvskkI+jiz5rkB8Paj5+C1i0hjbkY1pgby6Z1HIWDbW3GofeV5FdfYZngB1K0QSgiFh464YtnrjkArg==",
   "success": true,
-  "projectFilePath": "C:\\TeamCity\\buildAgent\\work\\6407e9f80655cdda\\Test\\Test\\Test.csproj",
+  "projectFilePath": "D:\\test1\\Test\\Test\\Test.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
