@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\test1\\Test\\TestConsole\\TestConsole.csproj": {}
+    "C:\\Zeta\\LocalServer\\Test\\TestConsole\\TestConsole.csproj": {}
   },
   "projects": {
-    "D:\\test1\\Test\\TestConsole\\TestConsole.csproj": {
+    "C:\\Zeta\\LocalServer\\Test\\TestConsole\\TestConsole.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\test1\\Test\\TestConsole\\TestConsole.csproj",
+        "projectUniqueName": "C:\\Zeta\\LocalServer\\Test\\TestConsole\\TestConsole.csproj",
         "projectName": "TestConsole",
-        "projectPath": "D:\\test1\\Test\\TestConsole\\TestConsole.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\test1\\Test\\TestConsole\\obj\\",
+        "projectPath": "C:\\Zeta\\LocalServer\\Test\\TestConsole\\TestConsole.csproj",
+        "packagesPath": "C:\\Windows\\system32\\config\\systemprofile\\.nuget\\packages\\",
+        "outputPath": "C:\\Zeta\\LocalServer\\Test\\TestConsole\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Windows\\system32\\config\\systemprofile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jC0/FY8IW+uf6NK8Ol4sBe/AK6Q8Kre1OnoJqmPE/RAMAFWXY9jQkuY+EOiHQaHrwQmzTfPZ7hfDhdPBMypGoQ==",
+  "dgSpecHash": "YVyQk46sAagJy/QB9R9lILikhhh6qJKNIBIsA+82UoGFQnPEBjMW15AcjiFc+UOSnN9BmDVxRut6EaNWnbzTDg==",
   "success": true,
-  "projectFilePath": "D:\\test1\\Test\\TestConsole\\TestConsole.csproj",
+  "projectFilePath": "C:\\Zeta\\LocalServer\\Test\\TestConsole\\TestConsole.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

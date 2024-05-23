@@ -1,0 +1,15 @@
+C:\Zeta\LocalServer\Test\TestConsole\bin\Release\net7.0\TestConsole.exe
+C:\Zeta\LocalServer\Test\TestConsole\bin\Release\net7.0\TestConsole.deps.json
+C:\Zeta\LocalServer\Test\TestConsole\bin\Release\net7.0\TestConsole.runtimeconfig.json
+C:\Zeta\LocalServer\Test\TestConsole\bin\Release\net7.0\TestConsole.dll
+C:\Zeta\LocalServer\Test\TestConsole\bin\Release\net7.0\TestConsole.pdb
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.AssemblyInfoInputs.cache
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.AssemblyInfo.cs
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.sourcelink.json
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.dll
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\refint\TestConsole.dll
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.pdb
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\TestConsole.genruntimeconfig.cache
+C:\Zeta\LocalServer\Test\TestConsole\obj\Release\net7.0\ref\TestConsole.dll
